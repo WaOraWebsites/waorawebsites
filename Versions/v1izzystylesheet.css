@@ -17,6 +17,12 @@ border: 1px solid red;
 h1 {
   text-align: center;
 }
+
+p{
+  text-align: center;
+     text-size: 30;
+}
+
 @font-face {
   font-family: lulocleanone;
   src: url(/Fonts/yellow_design_studio_-_lulo_clean_one-webfont.woff2);
