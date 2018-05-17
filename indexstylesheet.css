@@ -181,4 +181,6 @@ background:#bf5c71 url('body-bg.jpg');
 display:block;
 clear:both;
 }
-
+p {
+ font-family: arial;    
+}
