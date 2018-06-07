@@ -178,7 +178,7 @@ ul {
   text-align: center;
 }
 body {
-    background-color:#bf5c71 url('body-bg.jpg');
+    background-color:#bf5c71 ;
 }
 .clearfix:after {
 display:block;
