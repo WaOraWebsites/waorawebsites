@@ -164,7 +164,7 @@ w3-col.l5{width:41.66666%}.w3-col.l6{width:49.99999%}.w3-col.l7{width:58.33333%}
   src: url(/Fonts/yellow_design_studio_-_lulo_clean_one-webfont.woff2);
   src: url(/Fonts/yellow_design_studio_-_lulo_clean_one-webfont.woff);
 }
-background-color:bf5c71;    
+    
 h1 {
   text-align: center;
 }
@@ -178,7 +178,7 @@ ul {
   text-align: center;
 }
 body {
-background:#bf5c71 url('body-bg.jpg');
+background: bf5c71;
 }
 .clearfix:after {
 display:block;
@@ -188,6 +188,6 @@ p {
  font-family: arial;    
 }
 h4 {
- background-color: #bf5c71;
+ background-color: bf5c71;
 }
     
