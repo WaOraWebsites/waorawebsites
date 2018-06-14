@@ -178,7 +178,7 @@ ul {
   text-align: center;
 }
 body {
-    background-color:#bf5c71 ;
+    background-color: #ccccb3;
 }
 .clearfix:after {
 display:block;
@@ -186,8 +186,5 @@ clear:both;
 }
 p {
  font-family: arial;    
-}
-h4 {
- background-color: bf5c71;
 }
     
